@@ -8,7 +8,7 @@
     "build": "vite build && node copy-assets.js",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
-    "publish": "npm run build && npm run deploy && git add . && git commit -m \"Update: Portfolio changes\" && git push"
+    "publish": "node publish.js"
   },
   "dependencies": {
     "react": "^18.3.1",
