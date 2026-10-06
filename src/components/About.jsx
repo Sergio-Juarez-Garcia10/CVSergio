@@ -45,7 +45,7 @@ function About() {
 
           <div className="about-image">
             <img
-              src="/CVSergio/assets/img/Sergio CV.jpeg"
+              src="/CVSergio/assets/img/SergioCV.jpeg"
               alt="Sergio Juárez García"
               className="profile-photo"
             />
