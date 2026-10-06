@@ -8,7 +8,8 @@ import {
   FaCode, 
   FaTools,
   FaChartBar,
-  FaCloud
+  FaCloud,
+  DiMongodb 
 } from 'react-icons/fa'
 import { SiDotnet, SiMysql } from 'react-icons/si'
 
@@ -38,6 +39,7 @@ const skillCategories = [
     skills: [
       { name: 'SQL Server', icon: <FaDatabase />, color: '#cc2927' },
       { name: 'MySQL', icon: <SiMysql />, color: '#4479a1' },
+      { name: 'MongoDB', icon: <DiMongodb />, color: '#47a248' },
     ],
   },
   {
