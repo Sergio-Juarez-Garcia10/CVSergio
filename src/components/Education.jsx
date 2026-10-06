@@ -13,7 +13,7 @@ const education = [
     degree: 'Técnico en Mecatrónica',
     institution: 'CETIS No. 26',
     location: 'Atitalaquia, Hidalgo',
-    period: '2015 - 2018',
+    period: '2015 - Mayo 2018',
     description: 'Especialización en sistemas mecatrónicos, automatización y control de procesos industriales.',
   },
 ]
