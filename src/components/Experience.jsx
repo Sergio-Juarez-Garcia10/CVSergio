@@ -18,7 +18,7 @@ const experiences = [
     title: 'Líder de Desarrollo de Software',
     company: 'Pixir',
     location: 'Tula de Allende, Hidalgo',
-    period: 'Junio de 2018 - Marzo 2025',
+    period: 'Junio 2018 - Marzo 2025',
     description: [
       'Liderazgo y coordinación de equipos de desarrollo',
       'Administración y configuración de servidores VPS',
