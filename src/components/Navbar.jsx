@@ -58,7 +58,7 @@ function Navbar({ activeSection }) {
           ))}
           <li>
             <a
-              href="/CVSergio/assets/img/CV Sergio Juarez Garcia.pdf"
+              href="/CVSergio/assets/img/Sergio_Juarez_Garcia_CV.pdf"
               download
               className="btn-download"
             >
