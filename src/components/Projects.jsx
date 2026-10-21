@@ -6,7 +6,7 @@ const projects = [
     title: 'Sistema de Gestión de Emergencias',
     description: 'Aplicación web para gestión y seguimiento de emergencias en tiempo real, desarrollada con React y integrada con APIs de geolocalización.',
     technologies: ['React', 'JavaScript', 'REST APIs', 'SQL Server'],
-    github: 'https://github.com/Sergio-Juarez-Garcia10',
+    github: 'https://github.com/Sergio-Juarez-Garcia10/EmergencyManagement-System.git',
     demo: null,
   },
   {
