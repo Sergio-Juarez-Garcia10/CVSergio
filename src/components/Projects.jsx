@@ -4,8 +4,8 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa'
 const projects = [
   {
     title: 'Sistema de Gestión de Emergencias',
-    description: 'Aplicación web para gestión y seguimiento de emergencias en tiempo real, desarrollada con React y integrada con APIs de geolocalización.',
-    technologies: ['React', 'JavaScript', 'REST APIs', 'SQL Server'],
+    description: 'Aplicación web para gestión y seguimiento de emergencias en tiempo real. Desarrollada con React y TypeScript, con mapa interactivo mediante Leaflet, geocodificación de direcciones, comunicación en tiempo real con WebSockets y persistencia en SQLite.',
+    technologies: ['React', 'TypeScript', 'Node.js', 'Express' , 'Socket.IO', 'SQLite' , 'Leaflet', 'Tailwind CSS'],
     github: 'https://github.com/Sergio-Juarez-Garcia10/EmergencyManagement-System.git',
     demo: null,
   },
